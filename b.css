@@ -1,0 +1,44 @@
+body {
+    background: rgb(33, 155, 84);
+    background-image: url('Nop.jpg');
+}
+
+table,
+th,
+td {
+    border: 1px solid #ddd;
+    font: 13 tohama;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    padding: 14px;
+}
+
+
+/* table {
+    width: 100%;
+} */
+
+
+/* 
+a {
+    color: rgb(255, 4, 4);
+}
+
+a:hover,
+a:focus,
+a:visited {
+    background: aqua;
+    color: rgb#f00000
+}
+
+a:active {
+    background: rgba(52, 15, 77, 0);
+    color: rgb(42, 165, 48);
+} */
